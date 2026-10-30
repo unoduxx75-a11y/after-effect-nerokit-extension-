@@ -1,0 +1,16 @@
+{
+  "name": "NEROKIT",
+  "version": "1.2.0",
+  "releaseDate": "2026-10-30",
+  "minAEVersion": "2017",
+  "maxAEVersion": "2026+",
+  "description": "Professional Adobe After Effects Workflow Suite & Bezier Curve Editor",
+  "changelog": [
+    "Fixed permanent local storage persistence (Graph background image, Auto-apply toggle, Themes, Sliders)",
+    "Fixed graph ease curve application glitch and smooth realtime interpolation",
+    "Added In-Extension Update Checker linked with GitHub Releases",
+    "Universal 1-Click Installer with automatic PlayerDebugMode activation",
+    "Multi-effect additive preset stacking engine"
+  ],
+  "downloadUrl": "https://github.com/unoxeo/NEROKIT/releases/latest"
+}
